@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          0
     x64:         1
 Memory:          6048MB
-Free memory:     4141MB
+Free memory:     4083MB
 VA space:        134217728MB
 User:            ASUS
 Computer:        DESKTOP-74JJOI7
@@ -40,25 +40,25 @@ Pixel program:   3.0
 Hardware TnL:    1
 Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
 === Options ===
-NumBoots 99
-LightingQuality 2
-GeneralReflections 1
-ObjectQuality 2
-VisualEffects 1
+NumBoots 113
+LightingQuality 4
+GeneralReflections 3
+ObjectQuality 3
+VisualEffects 3
 PostProcessing 0
 UseUncompressedTextures 0
 TerrainQuality 1
-EdgeSmoothing 0
+EdgeSmoothing 3
 TerrainSlopeScaling 1
-SimQuality 2
+SimQuality 4
 ViewDistance 3
 AdvancedRendering 0
 VerticalSync 0
 UseHiDpi 1
 UiScale 100
 UseOSDpi 1
-ResolutionWidth 1280
-ResolutionHeight 720
+ResolutionWidth 1920
+ResolutionHeight 1080
 ResolutionRefresh 0
 SceneResolution 3
 VisualQuality 0
