@@ -1,6 +1,6 @@
 === Application info ===
 Name:            Sims4
-Version:         1.62.67.1020
+Version:         1.63.134.1020
 Build:           Release 64 Bit
 === Rating info ===
 GPU: 2 GPU Memory: 2 CPU: 3 RAM: 4 CPU Speed: 2195 Threading: 3
@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          0
     x64:         1
 Memory:          6048MB
-Free memory:     4083MB
+Free memory:     4326MB
 VA space:        134217728MB
 User:            ASUS
 Computer:        DESKTOP-74JJOI7
@@ -40,7 +40,7 @@ Pixel program:   3.0
 Hardware TnL:    1
 Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
 === Options ===
-NumBoots 113
+NumBoots 119
 LightingQuality 4
 GeneralReflections 3
 ObjectQuality 3
@@ -59,7 +59,7 @@ UiScale 100
 UseOSDpi 1
 ResolutionWidth 1920
 ResolutionHeight 1080
-ResolutionRefresh 0
+ResolutionRefresh 60
 SceneResolution 3
 VisualQuality 0
 FullScreen 1
@@ -117,6 +117,9 @@ RainOptions 0
 SnowOptions 0
 TemperatureEffects 1
 FameStartSimsOptedOut 0
+NPCCivicVoting 1
+EcoFootprintGameplay 1
+BuildEcoEffects 1
 ShowWhims 1
 ShowModListStartup 1
 ModsDisabled 0
@@ -209,6 +212,9 @@ RainOptions 0
 SnowOptions 0
 TemperatureEffects 1
 FameStartSimsOptedOut 0
+NPCCivicVoting 1
+EcoFootprintGameplay 1
+BuildEcoEffects 1
 ShowWhims 0
 ShowModListStartup 1
 ModsDisabled 0
